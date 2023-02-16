@@ -1,1 +1,1 @@
-Learning straight from MongoDB docs: https://www.mongodb.com/docs/atlas/getting-started/
+MongoDB University "Introduction to MongoDB". https://learn.mongodb.com/learning-paths/introduction-to-mongodb
